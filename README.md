@@ -19,6 +19,8 @@ Note! This demo is slightly different (i.e. the design is not the same and it do
 
 docker pull laserlars443/lapublic:nginx_totp_v1
 
+Using nginx.
+
 
 ## Following libraries were used
 
